@@ -1,9 +1,6 @@
 # Compiled class file
 *.class
 
-JAVA_ALGO/.idea/
-JAVA_ALGO/*.iml
-
 # Log file
 *.log
 
