@@ -1,0 +1,7 @@
+package arrays;
+
+public class JavaArrays {
+    public static void main(String[] args) {
+
+    }
+}
